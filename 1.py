@@ -4,3 +4,4 @@ __author__ = 'soul'
 
 for i in range(9):
 	print('haha')
+	print(' ')
